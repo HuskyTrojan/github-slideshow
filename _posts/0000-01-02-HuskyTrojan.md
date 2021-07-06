@@ -2,5 +2,5 @@
 layout:  slide
 title:   "Welcome to our second slide!"
 ---
-Your text
+I should probably be using command line
 Use the left arrow to go back!
